@@ -39,6 +39,11 @@ For detailed technical documentation, NDA-covered specifications, and research c
 Creative Systems Architect — Omar.ai LLC  
   
 
+## Documentation
+- [Overview](docs/overview.md)
+- [Use Cases](docs/use-cases.md)
+- [FAQ](docs/faq.md)
+- [Access & NDA Policy](docs/access.md)
 
 
 ## Visual Framework
@@ -58,8 +63,3 @@ flowchart TD
     T --> O[Context-aware, emotionally aligned AI Output]
 
 
-## Documentation
-- [Overview](docs/overview.md)
-- [Use Cases](docs/use-cases.md)
-- [FAQ](docs/faq.md)
-- [Access & NDA Policy](docs/access.md)
