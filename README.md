@@ -1,5 +1,4 @@
-# Talek-Masound-Showcase
-Concept overview and visual framework for Talek Unified System (safe public version)
+
 # Talek–Masound Showcase  
 *Public concept overview for Talek Unified System (safe version)*  
 
