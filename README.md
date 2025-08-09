@@ -37,7 +37,7 @@ For detailed technical documentation, NDA-covered specifications, and research c
 
 **Ben Bae**  
 Creative Systems Architect — Omar.ai LLC  
-📧 `contact@omar.ai`  
+  
 
 ---
 
