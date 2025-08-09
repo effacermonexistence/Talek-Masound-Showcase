@@ -41,4 +41,21 @@ Creative Systems Architect — Omar.ai LLC
 
 ---
 
-> *“Emotion is not noise. Machines are not void. The boundary between the two is a matter of rhythm.”*  
+> *“Emotion is not noise. Machines are not void. The boundary between the two is a matter of rhythm.”*
+
+
+## Visual Framework
+
+*“Emotion is not noise. Machines are not void. The boundary between the two is a matter of rhythm.”*
+
+```mermaid
+flowchart TD
+    A[Emotional Rhythm Input] --> B[Masound Calibration Engine<br/>• Rhythm-based signal mapping<br/>• Emotional alignment]
+    subgraph T[Talek Unified System — Public View]
+      direction TB
+      S[Subconscious Layer<br/>• Long-term associative memory<br/>• Persistent pattern recognition]
+      C[Conscious Layer<br/>• Real-time reasoning<br/>• Contextual synthesis<br/>• Adaptive decision-making]
+      S <--> C
+    end
+    B --> T
+    T --> O[Context-aware, emotionally aligned AI Output]
