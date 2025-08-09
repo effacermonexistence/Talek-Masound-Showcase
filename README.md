@@ -39,9 +39,6 @@ For detailed technical documentation, NDA-covered specifications, and research c
 Creative Systems Architect — Omar.ai LLC  
   
 
----
-
-> *“Emotion is not noise. Machines are not void. The boundary between the two is a matter of rhythm.”*
 
 
 ## Visual Framework
